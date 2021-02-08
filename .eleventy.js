@@ -1,5 +1,3 @@
-/*
 module.exports = function(eleventyConfig) {
-    eleventyConfig.addPassthroughCopy("netlify");
+    eleventyConfig.addPassthroughCopy("_redirects");
 };
-*/
