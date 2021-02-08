@@ -1,0 +1,24 @@
+{
+  "name": "image-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinEtchells/image-converter.git"
+  },
+  "keywords": [],
+  "author": "Kevin Etchells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinEtchells/image-converter/issues"
+  },
+  "homepage": "https://github.com/KevinEtchells/image-converter#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-img": "^0.7.8"
+  }
+}
